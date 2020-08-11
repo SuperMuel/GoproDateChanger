@@ -3,4 +3,4 @@ Fast program to preview and edit the creation and modification date of videos fi
 
 Works only on windows for now.
 
-The program uses vlc on your computer to let you preview your videos, and then ask you to the right date to apply.
+The program uses vlc on your computer to let you preview your videos, and then ask you to type the right date to apply.
